@@ -6,7 +6,7 @@ The Economist 20200613
 
 <audio src="File:\\\Cities and the pandemic.mp3"></audio>
 
-**How much harm has the pandemic done to large Western cities? **
+**How much harm has the pandemic done to large Western cities?**
 
 Until recently big cities were unstoppable. Year after year places like New York, London and Paris grew richer and busier. Since the turn of the century they have **shrugged off** **a dotcom crash**, a financial crisis, terrorist attacks and political **populism** caused partly by **resentment** at their prosperity and **arrogance**. Could their magical run possibly be coming to an end? 
 
